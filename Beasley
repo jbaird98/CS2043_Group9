@@ -1,0 +1,6 @@
+
+ public class InfoPrintBrandon {
+ 	public void printBrandon() {
+ 		System.out.println("Brandon Beasley");
+ 	}
+ }
